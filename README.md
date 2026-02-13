@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-# Hi there! 👋
-
 **I'm Mohamed Saleh** — Student at the Faculty of Science and a Full Stack Web Developer (PHP & MySQL). 
 
 A builder of web apps and simple, maintainable backend systems. Always learning, always shipping. 🚀
