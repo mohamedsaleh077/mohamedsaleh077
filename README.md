@@ -18,8 +18,7 @@ A builder of web apps and simple, maintainable backend systems. Always learning,
 
 
 ## Skills & Technologies
-
-php,mysql,html,css,git,github,linux,bash,phpstorm,md,js,tailwind,bootstrap,jquery,cpp,docker,windows,py,arch,bsd,bun,npm,debian,discord,gmail,nix,stackoverflow,ai,vscodium,postgres,postman,linkedin,octave,matlab,mint,selenium,ubuntu,vim
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,html,css,git,github,linux,bash,phpstorm,md,js,tailwind,bootstrap,jquery,cpp,docker,windows,py,arch,bsd,bun,npm,debian,discord,gmail,nix,stackoverflow,ai,vscodium,postgres,postman,linkedin,octave,matlab,mint,selenium,ubuntu,vim&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
