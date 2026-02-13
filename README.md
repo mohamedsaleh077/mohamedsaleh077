@@ -23,8 +23,6 @@ php,mysql,html,css,git,github,linux,bash,phpstorm,md,js,tailwind,bootstrap,jquer
 
 ## Top Projects
 
-## Top Projects
-
 Here are a few highlights from my repositories — a mix of web apps, demos and personal projects.
 
 1. [MyHomeLap](https://github.com/mohamedsaleh077/MyHomeLap) ⭐️ **6 stars**
@@ -45,7 +43,6 @@ Here are a few highlights from my repositories — a mix of web apps, demos and 
 4. [santaroso-og-v3.1](https://github.com/mohamedsaleh077/santaroso-og-v3.1) 
    - Description: (Fork/upgrade) lightweight anonymous image board — updated v3.1.
    - Primary language: PHP
-   - Watchers: 0 • Forks: 0
 
 5. [mohamedsaleh077.github.io](https://github.com/mohamedsaleh077/mohamedsaleh077.github.io) ⭐️ **1 star**
    - Description: My online profile / GitHub Pages site.
@@ -57,16 +54,3 @@ Here are a few highlights from my repositories — a mix of web apps, demos and 
    - Primary language: (PHP / PHP stack)
 
 For details and demos, open the project links above. Each repository contains a README with setup and usage instructions. 🚀
-
-## GitHub Stats
-
-Badges & stats:
-
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedsaleh077&show_icons=true&theme=default)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaleh077&layout=compact&theme=default)
-
-(You can click the badges to view live stats on the GitHub Readme Stats service.)
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/mohammed-saleh777/","facebook":"https://www.facebook.com/mohamed.saleh121616"}
