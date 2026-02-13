@@ -60,12 +60,6 @@ For details and demos, open the project links above. Each repository contains a 
 
 ## GitHub Stats
 
-## GitHub Stats
-
-- Public repositories: **13**
-- Followers: **9**
-- Following: **18**
-
 Badges & stats:
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedsaleh077&show_icons=true&theme=default)
